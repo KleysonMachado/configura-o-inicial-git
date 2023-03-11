@@ -2,10 +2,11 @@
 Configuração para o Git
 INSTALAÇÃO GIT
 Entre no site oficial do GIT
-Escolha a opção Windows e o instalador será baixado automaticamente
-Mantenha as opções pré selecionadas
-Próximo
-Instalar
+
+  Escolha a opção Windows e o instalador será baixado automaticamente
+  Mantenha as opções pré selecionadas 
+  Próximo 
+  Instalar
 Antes de finalizar a instalação, selecione a opção "Lauch Git Bash"
 No Git Bash, verifique se o GIT está instalado:git --version
 configurações iniciais:
